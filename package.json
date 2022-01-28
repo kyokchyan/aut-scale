@@ -1,0 +1,23 @@
+{
+  "name": "aut-scale",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyokchyan/aut-scale.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyokchyan/aut-scale/issues"
+  },
+  "homepage": "https://github.com/kyokchyan/aut-scale#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
